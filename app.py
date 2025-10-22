@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import math
 
-st.title("calculadora de figuras trigonometricas ;)")
+st.title("calculadora de figuras trigonometricas 🖩🖩")
 st.sidebar.write("Nombre: Ever Gibran García Martínez, Matricula: 385898. Grupo: 3L")
 
 # Selección de figura
